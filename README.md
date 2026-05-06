@@ -27,3 +27,5 @@ yes
 - Displays total tasks  
 - Shows final files  
 
+## Output screenshot
+![output] (output.png)
