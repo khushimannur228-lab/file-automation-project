@@ -27,6 +27,6 @@ yes
 - Displays total tasks  
 - Shows final files  
 
-## Output screenshot
+## Output screenshotS
 ![Output](output1.png)
 ![Output](output2.png)
