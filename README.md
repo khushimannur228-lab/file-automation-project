@@ -28,5 +28,5 @@ yes
 - Shows final files  
 
 ## Output screenshots
-![Output](output1.png)
-![Output](output2.png)
+![Output](task1output1.png)
+![Output](task1output2.png)
